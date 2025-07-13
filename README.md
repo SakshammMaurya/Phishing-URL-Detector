@@ -126,10 +126,7 @@ Saksham Maurya
 ## Credits
 This project was inspired and supported by the following resources:
 
-### Youtube tutorials
-- [Book Recommender System | Machine Learning Project](https://youtu.be/1YoD0fg3_EM?si=YlJX1LqapFVZh2Cj)
-- [Machine Learning Android App](https://youtu.be/ax3WyB-_LJY?si=QtsZgqHEoLnW8KoV)
-- [Complete REST API tutorial in flask](https://youtu.be/mWrvI0hfllI?si=rFN7kDn8N7KTHDKM)
-
 ### Datasets
-- [Books dataset on Kaggle](https://www.kaggle.com/datasets/saurabhbagchi/books-dataset)
+- [https://www.phishtank.com/developer_info.php](https://www.phishtank.com/developer_info.php)
+- [https://www.unb.ca/cic/datasets/url-2016.html](https://www.unb.ca/cic/datasets/url-2016.html)
+
